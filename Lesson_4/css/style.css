@@ -1,0 +1,64 @@
+/* &display=swap */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap");
+
+@font-face {
+	font-family: Minako;
+	src: url("../fonts/Minako-Regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+body {
+	font-size: 20px;
+}
+
+h1 {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.list {
+	color: deeppink;
+	font-size: 25px;
+}
+
+.textps1 {
+	font-family: "Architects Daughter", cursive;
+	color: brown;
+	text-decoration: underline;
+}
+
+.textps2 p {
+	font-family: "Minako", cursive;
+	color: darkcyan;
+	text-transform: uppercase;
+}
+
+.textps3 {
+	font-weight: 700;
+	color: darkgreen;
+	font-family: "Poppins", "Times New Roman", Times, serif;
+	line-height: 1.5;
+}
+
+.textps3 .red-text {
+	color: darkred;
+}
+
+.textps4 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana,
+		sans-serif;
+	text-shadow: 10px 3px 7px darkslateblue;
+}
+
+.footer {
+	text-decoration: line-through;
+	color: darkslategrey;
+	text-align: center;
+	text-transform: capitalize;
+}
