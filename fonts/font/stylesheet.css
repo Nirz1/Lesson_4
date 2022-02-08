@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Kuloneth';
+    src: url('KulonethRegular.eot');
+    src: local('Kuloneth'), local('KulonethRegular'),
+        url('KulonethRegular.eot?#iefix') format('embedded-opentype'),
+        url('KulonethRegular.woff2') format('woff2'),
+        url('KulonethRegular.woff') format('woff'),
+        url('KulonethRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
